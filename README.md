@@ -19,6 +19,51 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
+Here’s an improved `README.md` notice that **explicitly references the issue** and aligns with how SDV Blueprints uses issues for governance and decisions ([Eclipse Foundation][1]):
+
+---
+
+Here is a more **formal, Eclipse governance–aligned version** of the notice:
+
+---
+
+## ⚠️ Project Status: Archived
+
+This blueprint repository has been **archived** and is no longer under active maintenance.
+
+📄 For the formal discussion and rationale, please refer to:
+[https://github.com/eclipse-sdv-blueprints/blueprints/issues/20](https://github.com/eclipse-sdv-blueprints/blueprints/issues/20)
+
+### Status and Scope
+
+Following the outcome of the community discussion documented in the issue above, this repository has transitioned to an **inactive state**. It is retained under the project for **archival and reference purposes only**.
+
+### Contribution Policy
+
+Effective immediately:
+
+* Issues will **not be monitored or triaged**
+* Pull Requests will **not be reviewed or merged**
+* No further development activities will be carried out
+
+As such, this repository should be considered **read-only**.
+
+### Guidance to Users
+
+Consumers of this repository are encouraged to:
+
+* Evaluate **alternative, actively maintained projects** within the ecosystem
+* Fork the repository if continued development is required for specific use cases
+
+### Archival Intent
+
+The repository remains available to:
+
+* Preserve the historical record of the project
+* Provide visibility into prior design and implementation decisions
+* Support reuse in downstream or derivative work, where appropriate
+
+
 # Description
 
 The [Eclipse SDV Blueprints](https://github.com/eclipse-sdv-blueprints) project is a collaborative initiative
