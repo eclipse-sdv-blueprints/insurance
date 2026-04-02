@@ -19,15 +19,8 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-Here’s an improved `README.md` notice that **explicitly references the issue** and aligns with how SDV Blueprints uses issues for governance and decisions ([Eclipse Foundation][1]):
 
----
-
-Here is a more **formal, Eclipse governance–aligned version** of the notice:
-
----
-
-## ⚠️ Project Status: Archived
+# ⚠️ Project Status: Archived
 
 This blueprint repository has been **archived** and is no longer under active maintenance.
 
